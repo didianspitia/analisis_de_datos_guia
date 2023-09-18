@@ -18,7 +18,7 @@ Técnicas de muestreo: Las técnicas de muestreo se refieren a los métodos util
 
 ## Lenguaje de programación: 
 
- - Python se ha convertido en uno de los lenguajes más populares para el análisis de datos debido a varias razones: 
+-Python se ha convertido en uno de los lenguajes más populares para el análisis de datos debido a varias razones: 
 
 Facilidad de uso: Python es un lenguaje de programación fácil de aprender y utilizar, lo que lo hace accesible para personas con diferentes niveles de experiencia en programación. 
 
